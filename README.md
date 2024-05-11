@@ -7,5 +7,5 @@
 - I'm currently learning different things about Git, Virtual Machines, Docker and more...
 - Also learning some new programming languages 🐍.
 
-- 📥 Admin@lecohub.com
+- 📥 Admin@danleco.dev
   
